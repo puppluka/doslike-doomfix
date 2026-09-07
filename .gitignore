@@ -22,3 +22,9 @@ mods/
 # Prevent Local Binary Inclusion
 doom.exe
 default.cfg
+
+# No object files, user builds themselves
+*.o
+win32/*.o
+source/*.o
+source/doom/*.o
