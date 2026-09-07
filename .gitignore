@@ -1,0 +1,24 @@
+files/
+
+source/burn.c
+source/command.c
+source/julia.c
+source/mandelbrot.c
+source/plasma.c
+source/raycast.c
+source/rotozoom.c
+source/sound.c
+source/stranded.c
+source/tracker.c
+source/tunnel.c
+source/voxel.c
+
+# Non-Shareware Data
+mods/
+
+# Prevent Redundant/Old Game Data
+*.wad
+
+# Prevent Local Binary Inclusion
+doom.exe
+default.cfg

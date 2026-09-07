@@ -1,0 +1,1 @@
+..\tcc\tcc	..\source\tracker.c		..\source\dos.c		-lcomdlg32
