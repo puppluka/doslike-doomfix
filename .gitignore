@@ -2,6 +2,7 @@ files/
 
 source/burn.c
 source/command.c
+source/edit.c
 source/julia.c
 source/mandelbrot.c
 source/plasma.c
